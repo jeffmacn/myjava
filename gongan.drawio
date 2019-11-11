@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-11T09:38:41.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="_1Cd4Tm16fP6v80SdG-1" version="12.2.3" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-11T09:42:00.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="iqC4JofB9vUV2aVoWj7n" version="12.2.3" type="github" pages="2">
   <diagram id="UuU15YSCq9CCK0enHWxT" name="Page-1">
     <mxGraphModel dx="1929" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,8 +53,8 @@
       <root>
         <mxCell id="ierfb_9LATlLQY-Fgi1E-0"/>
         <mxCell id="ierfb_9LATlLQY-Fgi1E-1" parent="ierfb_9LATlLQY-Fgi1E-0"/>
-        <mxCell id="ierfb_9LATlLQY-Fgi1E-2" value="数据仓库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="560" y="295" width="90" height="100" as="geometry"/>
+        <mxCell id="ierfb_9LATlLQY-Fgi1E-2" value="数据仓库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=14;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+          <mxGeometry x="540" y="295" width="90" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="ierfb_9LATlLQY-Fgi1E-3" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=14;" edge="1" parent="ierfb_9LATlLQY-Fgi1E-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -62,7 +62,7 @@
             <mxPoint x="300" y="340" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ierfb_9LATlLQY-Fgi1E-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+        <mxCell id="ierfb_9LATlLQY-Fgi1E-7" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=14;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
           <mxGeometry x="320" y="330" width="100" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="ierfb_9LATlLQY-Fgi1E-8" value="MQ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
@@ -74,31 +74,25 @@
             <mxPoint x="510" y="344.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ierfb_9LATlLQY-Fgi1E-10" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="430" y="240" width="80" height="60" as="geometry"/>
+        <mxCell id="ierfb_9LATlLQY-Fgi1E-12" value="数据源1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+          <mxGeometry x="130" y="213.5" width="70" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="ierfb_9LATlLQY-Fgi1E-12" value="数据源1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="130" y="230" width="70" height="70" as="geometry"/>
+        <mxCell id="ierfb_9LATlLQY-Fgi1E-13" value="数据源2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+          <mxGeometry x="130" y="308.5" width="70" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="ierfb_9LATlLQY-Fgi1E-13" value="数据源2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="130" y="325" width="70" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="ierfb_9LATlLQY-Fgi1E-14" value="数据源1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="130" y="430" width="70" height="70" as="geometry"/>
+        <mxCell id="ierfb_9LATlLQY-Fgi1E-14" value="数据源1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+          <mxGeometry x="130" y="413.5" width="70" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="ierfb_9LATlLQY-Fgi1E-15" value="智慧社区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="40" y="255" width="60" height="20" as="geometry"/>
+          <mxGeometry x="40" y="238.5" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="ierfb_9LATlLQY-Fgi1E-16" value="宇视监控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="40" y="345" width="60" height="20" as="geometry"/>
+          <mxGeometry x="40" y="328.5" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="ierfb_9LATlLQY-Fgi1E-18" value="......" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="140" y="400" width="40" height="20" as="geometry"/>
+          <mxGeometry x="140" y="383.5" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="ierfb_9LATlLQY-Fgi1E-20" value="统计分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="660" y="239" width="80" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="ierfb_9LATlLQY-Fgi1E-22" value="统计结果" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+        <mxCell id="ierfb_9LATlLQY-Fgi1E-22" value="统计结果" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=14;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
           <mxGeometry x="770" y="298.5" width="90" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="ierfb_9LATlLQY-Fgi1E-25" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=14;" edge="1" parent="ierfb_9LATlLQY-Fgi1E-1">
@@ -107,13 +101,10 @@
             <mxPoint x="950" y="345" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ierfb_9LATlLQY-Fgi1E-26" value="数据展现" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="874.5" y="240" width="80" height="60" as="geometry"/>
-        </mxCell>
         <mxCell id="ierfb_9LATlLQY-Fgi1E-28" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=14;" edge="1" parent="ierfb_9LATlLQY-Fgi1E-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="345" as="sourcePoint"/>
-            <mxPoint x="740" y="345" as="targetPoint"/>
+            <mxPoint x="665" y="345" as="sourcePoint"/>
+            <mxPoint x="735" y="345" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="ierfb_9LATlLQY-Fgi1E-31" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.phone_android;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
@@ -121,6 +112,15 @@
         </mxCell>
         <mxCell id="ierfb_9LATlLQY-Fgi1E-32" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
           <mxGeometry x="994.5" y="376" width="60" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="ierfb_9LATlLQY-Fgi1E-34" value="数据清洗" style="text;html=1;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+          <mxGeometry x="440" y="295" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="ierfb_9LATlLQY-Fgi1E-35" value="统计分析" style="text;html=1;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+          <mxGeometry x="670" y="293.5" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="ierfb_9LATlLQY-Fgi1E-36" value="数据展现" style="text;html=1;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+          <mxGeometry x="880" y="295" width="80" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
