@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T12:29:05.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="fYAdkkJInhMAp694BuTo" version="12.2.6" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-19T12:36:11.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="aPLGNEhWLB8aGfkpiYNL" version="12.2.6" type="github" pages="2">
   <diagram id="UuU15YSCq9CCK0enHWxT" name="Page-1">
     <mxGraphModel dx="1929" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,9 +141,9 @@
           <mxGeometry x="290" y="780" width="50" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="m3lilCtu1X0oE8K4D6wZ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="220" y="960" width="470" height="180" as="geometry"/>
+          <mxGeometry x="220" y="960" width="470" height="250" as="geometry"/>
         </mxCell>
-        <mxCell id="m3lilCtu1X0oE8K4D6wZ-6" value="基础设施" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+        <mxCell id="m3lilCtu1X0oE8K4D6wZ-6" value="微服务&lt;br&gt;基础设施" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
           <mxGeometry x="100" y="1040" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="m3lilCtu1X0oE8K4D6wZ-7" value="分布式调度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
@@ -199,6 +199,15 @@
         </mxCell>
         <mxCell id="m3lilCtu1X0oE8K4D6wZ-28" value="微信公众号&lt;br&gt;&amp;nbsp; 或小程序" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
           <mxGeometry x="590" y="679" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="m3lilCtu1X0oE8K4D6wZ-29" value="调用链监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+          <mxGeometry x="250" y="1140" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="m3lilCtu1X0oE8K4D6wZ-30" value="容错限流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+          <mxGeometry x="395" y="1140" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="m3lilCtu1X0oE8K4D6wZ-31" value="健康检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+          <mxGeometry x="538" y="1140" width="120" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
