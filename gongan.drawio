@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T12:22:30.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="F89iAWLy83jXP4nZUTM2" version="12.2.6" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-19T12:25:38.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="6b0JABQKjR_2CUO2WZMn" version="12.2.6" type="github" pages="2">
   <diagram id="UuU15YSCq9CCK0enHWxT" name="Page-1">
     <mxGraphModel dx="1929" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,25 +174,31 @@
           <mxGeometry x="220" y="560" width="470" height="180" as="geometry"/>
         </mxCell>
         <mxCell id="m3lilCtu1X0oE8K4D6wZ-17" value="客户端" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="110" y="630" width="50" height="10" as="geometry"/>
+          <mxGeometry x="115" y="629" width="50" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="m3lilCtu1X0oE8K4D6wZ-18" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;的&lt;/span&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="295" y="608" width="80" height="62" as="geometry"/>
+          <mxGeometry x="263" y="608" width="80" height="62" as="geometry"/>
         </mxCell>
         <mxCell id="m3lilCtu1X0oE8K4D6wZ-19" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.phone_android;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="550" y="606.5" width="31" height="55" as="geometry"/>
+          <mxGeometry x="515" y="608" width="31" height="55" as="geometry"/>
         </mxCell>
         <mxCell id="m3lilCtu1X0oE8K4D6wZ-20" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;点对点&lt;/span&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;fontSize=14;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="435" y="620.5" width="60" height="44" as="geometry"/>
+          <mxGeometry x="390" y="620.5" width="60" height="44" as="geometry"/>
         </mxCell>
         <mxCell id="m3lilCtu1X0oE8K4D6wZ-21" value="大屏" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="320" y="684" width="40" height="10" as="geometry"/>
+          <mxGeometry x="288" y="684" width="40" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="m3lilCtu1X0oE8K4D6wZ-22" value="Web管理系统" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="425" y="679" width="90" height="10" as="geometry"/>
+          <mxGeometry x="378" y="684" width="90" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="m3lilCtu1X0oE8K4D6wZ-23" value="App" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="550" y="679" width="40" height="10" as="geometry"/>
+          <mxGeometry x="518" y="679" width="40" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="m3lilCtu1X0oE8K4D6wZ-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-58-128.png" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+          <mxGeometry x="590" y="604.5" width="60" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="m3lilCtu1X0oE8K4D6wZ-28" value="微信公众号&lt;br&gt;&amp;nbsp; 或小程序" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+          <mxGeometry x="590" y="679" width="80" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
