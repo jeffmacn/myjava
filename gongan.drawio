@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T12:25:38.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="6b0JABQKjR_2CUO2WZMn" version="12.2.6" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-19T12:26:16.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="lCIY8W6l_A4yxsMQRRO8" version="12.2.6" type="github" pages="2">
   <diagram id="UuU15YSCq9CCK0enHWxT" name="Page-1">
     <mxGraphModel dx="1929" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,7 +158,7 @@
         <mxCell id="m3lilCtu1X0oE8K4D6wZ-10" value="服务网关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
           <mxGeometry x="540" y="980" width="120" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="m3lilCtu1X0oE8K4D6wZ-11" value="鉴权中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
+        <mxCell id="m3lilCtu1X0oE8K4D6wZ-11" value="授权认证中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
           <mxGeometry x="395" y="1060" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="m3lilCtu1X0oE8K4D6wZ-12" value="日志监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
