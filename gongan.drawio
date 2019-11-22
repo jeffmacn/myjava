@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-22T05:58:00.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="lMurhws0KdV5FpjqJp24" version="12.2.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-22T05:59:49.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="7-mpnZyVaG-m2TvwYtO5" version="12.2.9" type="github" pages="2">
   <diagram id="UuU15YSCq9CCK0enHWxT" name="Page-1">
     <mxGraphModel dx="1929" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -243,13 +243,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nJaAyw1lbJvoqSiWwxHd-9" value="人脸识别API" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="285" y="1310" width="50" height="40" as="geometry"/>
+          <mxGeometry x="285" y="1280" width="50" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="nJaAyw1lbJvoqSiWwxHd-10" value="百度实现" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#97D077;shape=mxgraph.azure.cloud_service;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
           <mxGeometry x="160" y="1410" width="50" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="nJaAyw1lbJvoqSiWwxHd-13" value="宇视实现" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#97D077;shape=mxgraph.azure.cloud_service;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
-          <mxGeometry x="270" y="1410" width="50" height="40" as="geometry"/>
+          <mxGeometry x="410" y="1410" width="50" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="nJaAyw1lbJvoqSiWwxHd-14" value="社区采集服务" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#33FFFF;shape=mxgraph.azure.cloud_service;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
           <mxGeometry x="331" y="770" width="50" height="40" as="geometry"/>
@@ -319,6 +319,26 @@
         </mxCell>
         <mxCell id="nJaAyw1lbJvoqSiWwxHd-34" value="其他" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ierfb_9LATlLQY-Fgi1E-1">
           <mxGeometry x="400.5" y="-440" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="nJaAyw1lbJvoqSiWwxHd-35" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ierfb_9LATlLQY-Fgi1E-1" source="nJaAyw1lbJvoqSiWwxHd-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1440" as="sourcePoint"/>
+            <mxPoint x="310" y="1340" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="185" y="1390"/>
+              <mxPoint x="310" y="1390"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nJaAyw1lbJvoqSiWwxHd-36" value="" style="endArrow=classic;html=1;exitX=0.547;exitY=0.321;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ierfb_9LATlLQY-Fgi1E-1" source="nJaAyw1lbJvoqSiWwxHd-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1430" as="sourcePoint"/>
+            <mxPoint x="320" y="1340" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="437" y="1390"/>
+              <mxPoint x="320" y="1390"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
