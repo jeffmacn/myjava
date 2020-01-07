@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-07T10:16:46.725Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="hVywWubbc8lH7GnHJExq" version="12.4.9" type="github" pages="10">
+<mxfile modified="2020-01-07T10:22:56.970Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="A51iqWV3v7xhkZiYnwq-" version="12.4.9" type="github" pages="10">
   <diagram id="I11_ivOyKLUAQFTDymwa" name="Page-1">
     <mxGraphModel dx="1102" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -779,10 +779,10 @@
           <mxGeometry x="416.5" y="540" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="5O48H1rujWgoAIjqcyTo-2" value="营销系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="560" y="540" width="120" height="60" as="geometry"/>
+          <mxGeometry x="696.5" y="540" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="5O48H1rujWgoAIjqcyTo-3" value="门禁系统中间件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="126.5" y="280" width="290" height="60" as="geometry"/>
+        <mxCell id="5O48H1rujWgoAIjqcyTo-3" value="门禁系统中间件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="126.5" y="290" width="290" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="5O48H1rujWgoAIjqcyTo-4" value="自研门禁设备" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
           <mxGeometry x="130" y="360" width="80" height="60" as="geometry"/>
@@ -881,7 +881,7 @@
           <mxGeometry x="696.5" y="-220" width="110" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ePnAY_1a6H43T_laIluJ-6" value="人脸识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="705" y="540" width="120" height="60" as="geometry"/>
+          <mxGeometry x="840" y="540" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ePnAY_1a6H43T_laIluJ-7" value="社区支撑系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
           <mxGeometry x="140" y="480" width="90" height="20" as="geometry"/>
@@ -895,8 +895,8 @@
         <mxCell id="ePnAY_1a6H43T_laIluJ-10" value="门卡管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
           <mxGeometry x="220" y="120" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ePnAY_1a6H43T_laIluJ-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="730" y="200" width="80" height="60" as="geometry"/>
+        <mxCell id="ePnAY_1a6H43T_laIluJ-11" value="车场管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="436.5" y="120" width="80" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ePnAY_1a6H43T_laIluJ-12" value="音视频呼叫" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
           <mxGeometry x="330" y="200" width="80" height="60" as="geometry"/>
@@ -909,6 +909,27 @@
         </mxCell>
         <mxCell id="ePnAY_1a6H43T_laIluJ-15" value="远程开门" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
           <mxGeometry x="330" y="120" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ePnAY_1a6H43T_laIluJ-16" value="车位管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="530" y="120" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ePnAY_1a6H43T_laIluJ-17" value="出入控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="625" y="120" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ePnAY_1a6H43T_laIluJ-19" value="设备管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="730" y="120" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ePnAY_1a6H43T_laIluJ-20" value="人像库管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="825" y="120" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ePnAY_1a6H43T_laIluJ-21" value="黑名单管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="920" y="120" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ePnAY_1a6H43T_laIluJ-22" value="告警管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="730" y="200" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JN8_gaQIpLZW8OU3yNX0-0" value="财务系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="556.5" y="540" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
