@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-07T10:06:20.659Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="Ridu_MC-P7HLCggyjw7J" version="12.4.9" type="github" pages="10">
+<mxfile modified="2020-01-07T10:08:05.207Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="kGvUbKRQ6g5n6POA3nUW" version="12.4.9" type="github" pages="10">
   <diagram id="I11_ivOyKLUAQFTDymwa" name="Page-1">
     <mxGraphModel dx="1102" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -773,13 +773,13 @@
           <mxGeometry x="110" y="460" width="920" height="170" as="geometry"/>
         </mxCell>
         <mxCell id="5O48H1rujWgoAIjqcyTo-0" value="会员系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="150" y="500" width="120" height="60" as="geometry"/>
+          <mxGeometry x="140" y="550" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="5O48H1rujWgoAIjqcyTo-1" value="支付系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="300" y="500" width="120" height="60" as="geometry"/>
+          <mxGeometry x="290" y="550" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="5O48H1rujWgoAIjqcyTo-2" value="营销系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="450" y="500" width="120" height="60" as="geometry"/>
+          <mxGeometry x="440" y="550" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="5O48H1rujWgoAIjqcyTo-3" value="门禁系统中间件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
           <mxGeometry x="126.5" y="280" width="290" height="60" as="geometry"/>
@@ -881,7 +881,10 @@
           <mxGeometry x="710" y="-50" width="110" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ePnAY_1a6H43T_laIluJ-6" value="人脸识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="590" y="500" width="120" height="60" as="geometry"/>
+          <mxGeometry x="580" y="550" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ePnAY_1a6H43T_laIluJ-7" value="社区支撑系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="140" y="480" width="90" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
