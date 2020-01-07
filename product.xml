@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-07T10:08:56.100Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="kVqsenDyF5_53CnfgFu3" version="12.4.9" type="github" pages="10">
+<mxfile modified="2020-01-07T10:15:55.602Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="_XRdwtxzva4_zwdpdNsK" version="12.4.9" type="github" pages="10">
   <diagram id="I11_ivOyKLUAQFTDymwa" name="Page-1">
     <mxGraphModel dx="1102" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -752,19 +752,19 @@
           <mxGeometry x="63" y="-420" width="1017" height="1080" as="geometry"/>
         </mxCell>
         <mxCell id="v9sMunbC8qb2j0Rom0OC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="110" y="-140" width="440" height="340" as="geometry"/>
+          <mxGeometry x="100" y="-310" width="440" height="340" as="geometry"/>
         </mxCell>
         <mxCell id="v9sMunbC8qb2j0Rom0OC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="110" y="210" width="920" height="220" as="geometry"/>
+          <mxGeometry x="110" y="40" width="920" height="390" as="geometry"/>
         </mxCell>
         <mxCell id="v9sMunbC8qb2j0Rom0OC-6" value="社区物联系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="130" y="240" width="90" height="20" as="geometry"/>
+          <mxGeometry x="125" y="60" width="90" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="v9sMunbC8qb2j0Rom0OC-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="570" y="20" width="480" height="180" as="geometry"/>
+          <mxGeometry x="546.5" y="-150" width="480" height="180" as="geometry"/>
         </mxCell>
         <mxCell id="v9sMunbC8qb2j0Rom0OC-9" value="社区物业管理系统" style="text;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="130" y="-100" width="120" height="30" as="geometry"/>
+          <mxGeometry x="116.5" y="-270" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="wrfX1Pz6RimDIF3128Dg-0" value="社区综合服务平台业务架构" style="text;html=1;fontSize=30;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
           <mxGeometry x="390" y="750" width="420" height="50" as="geometry"/>
@@ -818,67 +818,67 @@
           <mxGeometry x="936.5" y="360" width="80" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="5O48H1rujWgoAIjqcyTo-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="570" y="-140" width="460" height="150" as="geometry"/>
+          <mxGeometry x="556.5" y="-310" width="460" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="v9sMunbC8qb2j0Rom0OC-8" value="公安预警平台" style="text;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="590" y="-140" width="120" height="30" as="geometry"/>
+          <mxGeometry x="576.5" y="-310" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="eMXiuuv4mND32D1DA268-6" value="房屋管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="130" y="-60" width="120" height="60" as="geometry"/>
+          <mxGeometry x="116.5" y="-230" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="eMXiuuv4mND32D1DA268-7" value="住户管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="270" y="-60" width="120" height="60" as="geometry"/>
+          <mxGeometry x="256.5" y="-230" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="eMXiuuv4mND32D1DA268-8" value="物业报修" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="130" y="20" width="120" height="60" as="geometry"/>
+          <mxGeometry x="116.5" y="-150" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="eMXiuuv4mND32D1DA268-9" value="物业缴费" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="270" y="20" width="120" height="60" as="geometry"/>
+          <mxGeometry x="256.5" y="-150" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="eMXiuuv4mND32D1DA268-10" value="通知公告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="130" y="110" width="120" height="60" as="geometry"/>
+          <mxGeometry x="116.5" y="-60" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="eMXiuuv4mND32D1DA268-11" value="社区大数据分析" style="text;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="590" y="35" width="120" height="30" as="geometry"/>
+          <mxGeometry x="576.5" y="-135" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="eMXiuuv4mND32D1DA268-15" value="告警管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="590" y="-115" width="110" height="60" as="geometry"/>
+          <mxGeometry x="576.5" y="-285" width="110" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="eMXiuuv4mND32D1DA268-17" value="人口分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="588.5" y="65" width="110" height="60" as="geometry"/>
+          <mxGeometry x="575" y="-105" width="110" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="eMXiuuv4mND32D1DA268-18" value="车辆分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="698.5" y="65" width="110" height="60" as="geometry"/>
+          <mxGeometry x="685" y="-105" width="110" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="eMXiuuv4mND32D1DA268-19" value="房屋分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="808.5" y="65" width="110" height="60" as="geometry"/>
+          <mxGeometry x="795" y="-105" width="110" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="8z7tUgswOKuHjUfaIm0n-0" value="租房分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="586.75" y="130" width="110" height="60" as="geometry"/>
+          <mxGeometry x="573.25" y="-40" width="110" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="8z7tUgswOKuHjUfaIm0n-1" value="人员&lt;br&gt;通行记录分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="696.75" y="130" width="110" height="60" as="geometry"/>
+          <mxGeometry x="683.25" y="-40" width="110" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="8z7tUgswOKuHjUfaIm0n-2" value="车辆&lt;br&gt;通行记录分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="806.5" y="130" width="110" height="60" as="geometry"/>
+          <mxGeometry x="793" y="-40" width="110" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ePnAY_1a6H43T_laIluJ-0" value="人员关系网络" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="918.5" y="130" width="110" height="60" as="geometry"/>
+          <mxGeometry x="905" y="-40" width="110" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ePnAY_1a6H43T_laIluJ-1" value="人员布控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="840" y="-115" width="110" height="60" as="geometry"/>
+          <mxGeometry x="826.5" y="-285" width="110" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ePnAY_1a6H43T_laIluJ-2" value="车辆布控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="710" y="-110" width="110" height="60" as="geometry"/>
+          <mxGeometry x="696.5" y="-280" width="110" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ePnAY_1a6H43T_laIluJ-3" value="租客分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="920" y="65" width="110" height="60" as="geometry"/>
+          <mxGeometry x="906.5" y="-105" width="110" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ePnAY_1a6H43T_laIluJ-4" value="以脸查人" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="590" y="-50" width="110" height="60" as="geometry"/>
+          <mxGeometry x="576.5" y="-220" width="110" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ePnAY_1a6H43T_laIluJ-5" value="人脸识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
-          <mxGeometry x="710" y="-50" width="110" height="60" as="geometry"/>
+          <mxGeometry x="696.5" y="-220" width="110" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ePnAY_1a6H43T_laIluJ-6" value="人脸识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
           <mxGeometry x="705" y="540" width="120" height="60" as="geometry"/>
@@ -888,6 +888,27 @@
         </mxCell>
         <mxCell id="ePnAY_1a6H43T_laIluJ-8" value="用户中心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
           <mxGeometry x="140" y="540" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ePnAY_1a6H43T_laIluJ-9" value="人脸开门" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="130" y="200" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ePnAY_1a6H43T_laIluJ-10" value="门卡管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="220" y="120" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ePnAY_1a6H43T_laIluJ-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="730" y="200" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ePnAY_1a6H43T_laIluJ-12" value="音视频呼叫" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="310" y="200" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ePnAY_1a6H43T_laIluJ-13" value="设备管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="130" y="120" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ePnAY_1a6H43T_laIluJ-14" value="广告管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="220" y="200" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ePnAY_1a6H43T_laIluJ-15" value="远程开门" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="v9sMunbC8qb2j0Rom0OC-1">
+          <mxGeometry x="310" y="120" width="80" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
