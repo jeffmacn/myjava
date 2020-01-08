@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-08T07:08:35.539Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="2e9-NagQRYPnew1i-mfh" version="12.4.9" type="github" pages="11">
+<mxfile modified="2020-01-08T07:09:50.065Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="MQxJyO545mziQDEmYnkF" version="12.4.9" type="github" pages="11">
   <diagram id="I11_ivOyKLUAQFTDymwa" name="Page-1">
     <mxGraphModel dx="1102" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -969,7 +969,7 @@
         <mxCell id="-D9mNvOT8L3RKysZfE_--11" value="支付系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="-D9mNvOT8L3RKysZfE_--1">
           <mxGeometry x="436" y="540" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="-D9mNvOT8L3RKysZfE_--12" value="营销系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="-D9mNvOT8L3RKysZfE_--1">
+        <mxCell id="-D9mNvOT8L3RKysZfE_--12" value="内容管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="-D9mNvOT8L3RKysZfE_--1">
           <mxGeometry x="732" y="540" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="-D9mNvOT8L3RKysZfE_--13" value="门禁系统中间件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="-D9mNvOT8L3RKysZfE_--1">
@@ -1023,7 +1023,7 @@
         <mxCell id="-D9mNvOT8L3RKysZfE_--48" value="用户中心" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="-D9mNvOT8L3RKysZfE_--1">
           <mxGeometry x="140" y="540" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="-D9mNvOT8L3RKysZfE_--62" value="财务系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="-D9mNvOT8L3RKysZfE_--1">
+        <mxCell id="-D9mNvOT8L3RKysZfE_--62" value="营销系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="-D9mNvOT8L3RKysZfE_--1">
           <mxGeometry x="584" y="540" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="-D9mNvOT8L3RKysZfE_--63" value="开放平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="-D9mNvOT8L3RKysZfE_--1">
