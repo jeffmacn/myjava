@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-20T04:05:40.808Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="JdvlasFuWAdSEJ-4tcNd" version="12.5.5" type="github" pages="15">
+<mxfile modified="2020-01-20T04:06:10.027Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="WDJS7LsOux0UbJoVRsdI" version="12.5.5" type="github" pages="15">
   <diagram id="I11_ivOyKLUAQFTDymwa" name="Page-1">
     <mxGraphModel dx="1209" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3006,10 +3006,10 @@
         <mxCell id="SSOgE57OKsE0uV_N_0C8-4" value="社区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="SSOgE57OKsE0uV_N_0C8-1">
           <mxGeometry x="70" y="200" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="SSOgE57OKsE0uV_N_0C8-5" value="接入服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SSOgE57OKsE0uV_N_0C8-1">
+        <mxCell id="SSOgE57OKsE0uV_N_0C8-5" value="接入服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="SSOgE57OKsE0uV_N_0C8-1">
           <mxGeometry x="540" y="185" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="SSOgE57OKsE0uV_N_0C8-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SSOgE57OKsE0uV_N_0C8-1">
+        <mxCell id="SSOgE57OKsE0uV_N_0C8-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="SSOgE57OKsE0uV_N_0C8-1">
           <mxGeometry x="330" y="185" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="SSOgE57OKsE0uV_N_0C8-8" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SSOgE57OKsE0uV_N_0C8-1" target="SSOgE57OKsE0uV_N_0C8-2">
@@ -3066,7 +3066,7 @@
         <mxCell id="SSOgE57OKsE0uV_N_0C8-20" value="MQ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=14;" vertex="1" parent="SSOgE57OKsE0uV_N_0C8-1">
           <mxGeometry x="990" y="200" width="110" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="SSOgE57OKsE0uV_N_0C8-22" value="文件处理服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="SSOgE57OKsE0uV_N_0C8-1">
+        <mxCell id="SSOgE57OKsE0uV_N_0C8-22" value="文件处理服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="SSOgE57OKsE0uV_N_0C8-1">
           <mxGeometry x="780" y="185" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="SSOgE57OKsE0uV_N_0C8-24" value="文件" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;" vertex="1" parent="SSOgE57OKsE0uV_N_0C8-1">
