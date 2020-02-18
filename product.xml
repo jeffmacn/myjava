@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-18T07:55:03.027Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Yo2nY8ZohtZw30LVgafF" version="12.7.0" type="github" pages="18">
+<mxfile modified="2020-02-18T08:18:57.785Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="TPb7pV8Y2omr70WLounQ" version="12.7.0" type="github" pages="18">
   <diagram id="I11_ivOyKLUAQFTDymwa" name="Page-1">
     <mxGraphModel dx="1209" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -736,13 +736,13 @@
           </mxGraphModel>
       </diagram>
   <diagram id="yRXBP0Y2qbkbvh_rSivw" name="Page-9">
-        <mxGraphModel dx="1209" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-            <root>
-                <mxCell id="ZHfITG8rDlSxVstzXdjR-0"/>
-                <mxCell id="ZHfITG8rDlSxVstzXdjR-1" parent="ZHfITG8rDlSxVstzXdjR-0"/>
-              </root>
-          </mxGraphModel>
-      </diagram>
+    <mxGraphModel dx="1209" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ZHfITG8rDlSxVstzXdjR-0"/>
+        <mxCell id="ZHfITG8rDlSxVstzXdjR-1" parent="ZHfITG8rDlSxVstzXdjR-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="vm9Gxp50MjwiP7ebbu_e" name="业务架构">
         <mxGraphModel dx="1209" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
@@ -1986,7 +1986,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_lPjOkIvz9LlUOSGMH1D" name="原社区部署图">
-    <mxGraphModel dx="1209" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VbWpomNo40bQrOclkZFM-0"/>
         <mxCell id="VbWpomNo40bQrOclkZFM-1" parent="VbWpomNo40bQrOclkZFM-0"/>
@@ -2091,6 +2091,24 @@
         </mxCell>
         <mxCell id="VbWpomNo40bQrOclkZFM-39" value="D:\server\wy-pay.jar" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
           <mxGeometry x="500" y="1310" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="1500" y="180" width="670" height="290" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-42" value="47.93.119.117" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="1510" y="190" width="110" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-43" value="&lt;div&gt;80&amp;nbsp; &amp;nbsp; 真地道闸车辆通行记录图片推送端口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="1560" y="290" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-46" value="82&amp;nbsp; &amp;nbsp; 全视通推送记录端口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="1760" y="290" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-47" value="2048&amp;nbsp; 远程呼梯端口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="1960" y="290" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="wHEGE7q0pNfM56hzPPB7-3" value="好像没啥用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="1225" y="540" width="90" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
