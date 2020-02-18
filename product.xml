@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-18T07:22:03.062Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="wH7ZxRamNlRMoecoDFSO" version="12.7.0" type="github" pages="18">
+<mxfile modified="2020-02-18T07:54:38.928Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Lw6jldV7w47YbaEuuyoI" version="12.7.0" type="github" pages="18">
   <diagram id="I11_ivOyKLUAQFTDymwa" name="Page-1">
     <mxGraphModel dx="1209" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2054,13 +2054,43 @@
           <mxGeometry x="955" y="645" width="130" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="VbWpomNo40bQrOclkZFM-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
-          <mxGeometry x="440" y="810" width="960" height="550" as="geometry"/>
+          <mxGeometry x="440" y="810" width="370" height="300" as="geometry"/>
         </mxCell>
         <mxCell id="VbWpomNo40bQrOclkZFM-25" value="&lt;img&gt;39.107.101.174" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
           <mxGeometry x="490" y="820" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="VbWpomNo40bQrOclkZFM-26" value="Oracle" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
-          <mxGeometry x="510" y="920" width="130" height="80" as="geometry"/>
+          <mxGeometry x="560" y="910" width="130" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="440" y="1158" width="960" height="550" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-30" value="&lt;img&gt;39.105.47.199" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="490" y="1169" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-31" value="wy-pay&lt;br&gt;8086" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="500" y="1230" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-32" value="80" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="707" y="1230" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-33" value="8020" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="900" y="1230" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-34" value="8015" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="500" y="1370" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-35" value="8016" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="500" y="1500" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-37" value="D:\server\apache-tomcat-8.0.26\webs\xch.thzhsq.com\webapps\zhsq" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="635" y="1395" width="450" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-38" value="D:\server\apache-tomcat-8.0.26\webs\xch.thzhsq.com\webapps\zhsq" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="635" y="1525" width="450" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-39" value="D:\server\wy-pay.jar" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="500" y="1310" width="80" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
