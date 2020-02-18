@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-18T06:55:02.741Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="wvxd8g5gQMGz7nzOJYNE" version="12.7.0" type="github" pages="18">
+<mxfile modified="2020-02-18T07:03:02.361Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="YVMpPUr8hGMPPlJafiVw" version="12.7.0" type="github" pages="18">
   <diagram id="I11_ivOyKLUAQFTDymwa" name="Page-1">
     <mxGraphModel dx="1209" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2013,6 +2013,21 @@
         </mxCell>
         <mxCell id="VbWpomNo40bQrOclkZFM-9" value="日志检索&lt;br&gt;elasticsearch&lt;br&gt;9200" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
           <mxGeometry x="980" y="290" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-10" value="/home/app/nginx/sbin/nginx" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="1180" y="370" width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-11" value="Nginx&lt;br&gt;80" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="1210" y="290" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-13" value="/home/app/appweb" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="520" y="370" width="140" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-14" value="/home/app/appweb" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="760" y="370" width="140" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-15" value="/home/app/elasticsearch-7.0.0" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="960" y="370" width="210" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
