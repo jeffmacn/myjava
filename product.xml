@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-18T07:07:53.990Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="59hN23LN87XrGNH5Pwa1" version="12.7.0" type="github" pages="18">
+<mxfile modified="2020-02-18T07:22:03.062Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="wH7ZxRamNlRMoecoDFSO" version="12.7.0" type="github" pages="18">
   <diagram id="I11_ivOyKLUAQFTDymwa" name="Page-1">
     <mxGraphModel dx="1209" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1993,13 +1993,13 @@
         <mxCell id="VbWpomNo40bQrOclkZFM-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
           <mxGeometry x="440" y="180" width="960" height="550" as="geometry"/>
         </mxCell>
-        <mxCell id="VbWpomNo40bQrOclkZFM-2" value="用户中心&lt;br&gt;usercenter&lt;br&gt;9001" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+        <mxCell id="VbWpomNo40bQrOclkZFM-2" value="用户中心&lt;br&gt;usercenter&lt;br&gt;9001" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
           <mxGeometry x="520" y="290" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="VbWpomNo40bQrOclkZFM-3" value="结算中心&lt;br&gt;js-center&lt;br&gt;9002" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+        <mxCell id="VbWpomNo40bQrOclkZFM-3" value="结算中心&lt;br&gt;js-center&lt;br&gt;9002" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
           <mxGeometry x="760" y="290" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="VbWpomNo40bQrOclkZFM-4" value="MySQL&lt;br&gt;3306" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+        <mxCell id="VbWpomNo40bQrOclkZFM-4" value="MySQL&lt;br&gt;3306、33060" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
           <mxGeometry x="520" y="440" width="120" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="VbWpomNo40bQrOclkZFM-5" value="Redis&lt;br&gt;6379" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
@@ -2011,14 +2011,14 @@
         <mxCell id="VbWpomNo40bQrOclkZFM-8" value="api.xfjzhsq.com" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
           <mxGeometry x="560" y="205" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="VbWpomNo40bQrOclkZFM-9" value="日志检索&lt;br&gt;elasticsearch&lt;br&gt;9200" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+        <mxCell id="VbWpomNo40bQrOclkZFM-9" value="日志检索&lt;br&gt;elasticsearch&lt;br&gt;9200、9300" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
           <mxGeometry x="520" y="570" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="VbWpomNo40bQrOclkZFM-10" value="/home/app/nginx/sbin/nginx" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
-          <mxGeometry x="1180" y="370" width="200" height="30" as="geometry"/>
+          <mxGeometry x="1180" y="510" width="200" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="VbWpomNo40bQrOclkZFM-11" value="Nginx&lt;br&gt;80、81" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
-          <mxGeometry x="1210" y="290" width="120" height="80" as="geometry"/>
+          <mxGeometry x="1210" y="430" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="VbWpomNo40bQrOclkZFM-13" value="/home/app/appweb" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
           <mxGeometry x="520" y="370" width="140" height="30" as="geometry"/>
@@ -2032,14 +2032,35 @@
         <mxCell id="VbWpomNo40bQrOclkZFM-16" value="/home/app/zookeeper-3.4.14" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
           <mxGeometry x="950" y="510" width="200" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="VbWpomNo40bQrOclkZFM-17" value="zookeeper&lt;br&gt;2181" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
-          <mxGeometry x="960" y="440" width="120" height="60" as="geometry"/>
+        <mxCell id="VbWpomNo40bQrOclkZFM-17" value="zookeeper&lt;br&gt;2181、33218" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="960" y="440" width="140" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="VbWpomNo40bQrOclkZFM-18" value="logstash&lt;br&gt;5044" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+        <mxCell id="VbWpomNo40bQrOclkZFM-18" value="logstash&lt;br&gt;5044、9600" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
           <mxGeometry x="760" y="565" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="VbWpomNo40bQrOclkZFM-19" value="/home/app/logstash-7.0.0" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
           <mxGeometry x="740" y="650" width="180" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-20" value="/home/app/appweb/electric.jar" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="980" y="370" width="140" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-21" value="梯控&lt;br&gt;electric.jar&lt;br&gt;8085、2048" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="980" y="290" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-22" value="kafka&lt;br&gt;9092、45532" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="960" y="575" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-23" value="/home/app/kafka" style="text;html=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="955" y="645" width="130" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="440" y="810" width="960" height="550" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-25" value="&lt;img&gt;39.107.101.174" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="490" y="820" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="VbWpomNo40bQrOclkZFM-26" value="Oracle" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=14;" vertex="1" parent="VbWpomNo40bQrOclkZFM-1">
+          <mxGeometry x="510" y="920" width="130" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
