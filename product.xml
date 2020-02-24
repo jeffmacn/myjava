@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-24T08:14:28.901Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="G8voZQUnJeSmB-3T7hpn" version="12.7.4" type="github" pages="19">
+<mxfile modified="2020-02-24T08:31:35.750Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="jA23zjBxPN2OswRysB_o" version="12.7.4" type="github" pages="19">
   <diagram id="I11_ivOyKLUAQFTDymwa" name="Page-1">
     <mxGraphModel dx="1209" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4013,79 +4013,67 @@
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-0" />
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-1" parent="V-ubgRkNUPVgQRe8Z_hb-0" />
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-13" value="泰华锦业物业管理员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="120" y="180" width="160" height="20" as="geometry" />
+          <mxGeometry x="400" y="185" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="110" y="230" width="180" height="240" as="geometry" />
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="390" y="235" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-15" value="角色管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF0000;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="130" y="250" width="70" height="20" as="geometry" />
+          <mxGeometry x="410" y="255" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-16" value="用户管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF0000;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="130" y="280" width="70" height="20" as="geometry" />
+          <mxGeometry x="410" y="285" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-17" value="社区管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="130" y="310" width="70" height="20" as="geometry" />
+          <mxGeometry x="410" y="315" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-18" value="物业管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="130" y="340" width="70" height="20" as="geometry" />
+          <mxGeometry x="410" y="345" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-19" value="门禁管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="130" y="370" width="70" height="20" as="geometry" />
+          <mxGeometry x="410" y="375" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-20" value="车场管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="130" y="400" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-21" value="物业缴费" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="130" y="430" width="70" height="20" as="geometry" />
+          <mxGeometry x="410" y="405" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-22" value="武强分公司管理员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="400" y="180" width="160" height="20" as="geometry" />
+          <mxGeometry x="680" y="185" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="390" y="230" width="180" height="240" as="geometry" />
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="670" y="235" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-24" value="角色管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF0000;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="410" y="250" width="70" height="20" as="geometry" />
+          <mxGeometry x="690" y="255" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-25" value="用户管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF0000;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="410" y="280" width="70" height="20" as="geometry" />
+          <mxGeometry x="690" y="285" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-26" value="社区管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="410" y="310" width="70" height="20" as="geometry" />
+          <mxGeometry x="690" y="315" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-27" value="物业管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="410" y="340" width="70" height="20" as="geometry" />
+          <mxGeometry x="690" y="345" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-28" value="门禁管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="410" y="370" width="70" height="20" as="geometry" />
+          <mxGeometry x="690" y="375" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-29" value="车场管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="410" y="400" width="70" height="20" as="geometry" />
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-31" value="丽景名都小区管理员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="120" y="520" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-30" value="物业缴费" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="410" y="430" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-31" value="泰华广场小区管理员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="680" y="180" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="670" y="230" width="180" height="240" as="geometry" />
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="110" y="570" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-35" value="社区管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="690" y="310" width="70" height="20" as="geometry" />
+          <mxGeometry x="130" y="650" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-36" value="物业管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="690" y="340" width="70" height="20" as="geometry" />
+          <mxGeometry x="130" y="680" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-37" value="门禁管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="690" y="370" width="70" height="20" as="geometry" />
+          <mxGeometry x="130" y="710" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-38" value="车场管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="690" y="400" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-39" value="物业缴费" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="690" y="430" width="70" height="20" as="geometry" />
+          <mxGeometry x="130" y="740" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-40" value="管理员角色" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
           <mxGeometry x="-110" y="320" width="90" height="20" as="geometry" />
@@ -4094,7 +4082,7 @@
           <mxGeometry x="-110" y="610" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-42" value="泰华锦业物业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
-          <mxGeometry x="120" y="-110" width="160" height="20" as="geometry" />
+          <mxGeometry x="120" y="-180" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-43" value="" style="endArrow=none;html=1;fontSize=14;fontColor=#FF0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="V-ubgRkNUPVgQRe8Z_hb-1" source="V-ubgRkNUPVgQRe8Z_hb-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4146,6 +4134,144 @@
         </mxCell>
         <mxCell id="V-ubgRkNUPVgQRe8Z_hb-54" value="依云湾项目部" style="text;html=1;fontSize=14;fontColor=#1F1F1F;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
           <mxGeometry x="270" y="-33" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-55" value="运营中心管理员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="120" y="185" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="110" y="235" width="180" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-57" value="角色管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF0000;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="130" y="255" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-58" value="用户管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF0000;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="130" y="285" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-59" value="社区管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="130" y="315" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-60" value="物业管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="130" y="345" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-61" value="门禁管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="130" y="375" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-62" value="车场管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="130" y="405" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-63" value="物业缴费" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="130" y="435" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-64" value="" style="endArrow=classic;html=1;fontSize=14;fontColor=#1F1F1F;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V-ubgRkNUPVgQRe8Z_hb-1" source="V-ubgRkNUPVgQRe8Z_hb-55" target="V-ubgRkNUPVgQRe8Z_hb-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="230" as="sourcePoint" />
+            <mxPoint x="340" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-65" value="创建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#1F1F1F;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="320" y="165" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-66" value="" style="endArrow=classic;html=1;fontSize=14;fontColor=#1F1F1F;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="195" as="sourcePoint" />
+            <mxPoint x="690" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-67" value="创建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#1F1F1F;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="930" y="495" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-70" value="" style="endArrow=none;html=1;fontSize=14;fontColor=#FF0000;" edge="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="-90" as="sourcePoint" />
+            <mxPoint x="260" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-71" value="客服中心" style="text;html=1;fontSize=14;fontColor=#1F1F1F;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="270" y="-110" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-72" value="" style="endArrow=none;html=1;fontSize=14;fontColor=#FF0000;" edge="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="-120" as="sourcePoint" />
+            <mxPoint x="260" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-73" value="财务部" style="text;html=1;fontSize=14;fontColor=#1F1F1F;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="270" y="-140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-75" value="" style="endArrow=classic;html=1;fontSize=14;fontColor=#1F1F1F;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="V-ubgRkNUPVgQRe8Z_hb-1" source="V-ubgRkNUPVgQRe8Z_hb-23" target="V-ubgRkNUPVgQRe8Z_hb-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="490" as="sourcePoint" />
+            <mxPoint x="500" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-76" value="权限范围受限于" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#1F1F1F;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="590" y="325" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-77" value="泰华广场小区管理员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="680" y="520" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="670" y="565" width="180" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-79" value="社区管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="690" y="645" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-80" value="物业管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="690" y="675" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-81" value="门禁管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="690" y="705" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-84" value="" style="endArrow=classic;html=1;fontSize=14;fontColor=#1F1F1F;exitX=0.403;exitY=1.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="V-ubgRkNUPVgQRe8Z_hb-1" source="V-ubgRkNUPVgQRe8Z_hb-13" target="V-ubgRkNUPVgQRe8Z_hb-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="550" as="sourcePoint" />
+            <mxPoint x="360" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="464" y="220" />
+              <mxPoint x="320" y="220" />
+              <mxPoint x="320" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-85" value="" style="endArrow=classic;html=1;fontSize=14;fontColor=#1F1F1F;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V-ubgRkNUPVgQRe8Z_hb-1" source="V-ubgRkNUPVgQRe8Z_hb-22" target="V-ubgRkNUPVgQRe8Z_hb-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="580" as="sourcePoint" />
+            <mxPoint x="840" y="525" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="195" />
+              <mxPoint x="920" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-86" value="创建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#1F1F1F;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="320" y="495" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-87" value="创建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#1F1F1F;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="630" y="185" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="390" y="570" width="180" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-90" value="依云湾小区管理员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="400" y="520" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-91" value="" style="endArrow=classic;html=1;fontSize=14;fontColor=#1F1F1F;" edge="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="220" as="sourcePoint" />
+            <mxPoint x="420" y="528" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="528" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-95" value="社区管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="414" y="650" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-96" value="物业管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="414" y="680" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V-ubgRkNUPVgQRe8Z_hb-97" value="车场管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="V-ubgRkNUPVgQRe8Z_hb-1">
+          <mxGeometry x="414" y="740" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
