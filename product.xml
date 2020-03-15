@@ -1,6 +1,6 @@
-<mxfile modified="2020-03-01T03:37:42.892Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="dVcdnwIMC3Hk9nnyTAN8" version="12.7.9" type="github" pages="20">
+<mxfile modified="2020-03-15T04:40:53.639Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="CpK9fDkoQmh3YAtnP9om" version="12.8.5" type="github" pages="21">
   <diagram id="I11_ivOyKLUAQFTDymwa" name="Page-1">
-    <mxGraphModel dx="1209" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5526,51 +5526,120 @@
     
   </diagram>
   <diagram id="lj22f3l8Ta6NyusnlnGB" name="缴费">
+    
     <mxGraphModel dx="1209" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      
       <root>
+        
         <mxCell id="6tIgo2vq2b_T4DXhbU-m-0" />
+        
         <mxCell id="6tIgo2vq2b_T4DXhbU-m-1" parent="6tIgo2vq2b_T4DXhbU-m-0" />
+        
         <mxCell id="mvhJ4qTvJMWILq0OqMUm-0" value="缴费项" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" parent="6tIgo2vq2b_T4DXhbU-m-1" vertex="1">
+          
           <mxGeometry x="120" y="170" width="80" height="80" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="mvhJ4qTvJMWILq0OqMUm-1" value="社区1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="6tIgo2vq2b_T4DXhbU-m-1" vertex="1">
+          
           <mxGeometry x="300" y="110" width="120" height="60" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="mvhJ4qTvJMWILq0OqMUm-2" value="社区2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="6tIgo2vq2b_T4DXhbU-m-1" vertex="1">
+          
           <mxGeometry x="300" y="210" width="120" height="60" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="mvhJ4qTvJMWILq0OqMUm-3" value="社区3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="6tIgo2vq2b_T4DXhbU-m-1" vertex="1">
+          
           <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="mvhJ4qTvJMWILq0OqMUm-4" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="6tIgo2vq2b_T4DXhbU-m-1" source="mvhJ4qTvJMWILq0OqMUm-0" target="mvhJ4qTvJMWILq0OqMUm-1" edge="1">
+          
           <mxGeometry width="50" height="50" relative="1" as="geometry">
+            
             <mxPoint x="200" y="290" as="sourcePoint" />
+            
             <mxPoint x="250" y="240" as="targetPoint" />
+            
           </mxGeometry>
+          
         </mxCell>
+        
         <mxCell id="mvhJ4qTvJMWILq0OqMUm-5" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="6tIgo2vq2b_T4DXhbU-m-1" source="mvhJ4qTvJMWILq0OqMUm-0" target="mvhJ4qTvJMWILq0OqMUm-2" edge="1">
+          
           <mxGeometry width="50" height="50" relative="1" as="geometry">
+            
             <mxPoint x="240" y="310" as="sourcePoint" />
+            
             <mxPoint x="290" y="260" as="targetPoint" />
+            
           </mxGeometry>
+          
         </mxCell>
+        
         <mxCell id="mvhJ4qTvJMWILq0OqMUm-6" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="6tIgo2vq2b_T4DXhbU-m-1" source="mvhJ4qTvJMWILq0OqMUm-0" target="mvhJ4qTvJMWILq0OqMUm-3" edge="1">
+          
           <mxGeometry width="50" height="50" relative="1" as="geometry">
+            
             <mxPoint x="140" y="390" as="sourcePoint" />
+            
             <mxPoint x="190" y="340" as="targetPoint" />
+            
           </mxGeometry>
+          
         </mxCell>
+        
         <mxCell id="mvhJ4qTvJMWILq0OqMUm-7" value="j缴费项维度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="6tIgo2vq2b_T4DXhbU-m-1" vertex="1">
+          
           <mxGeometry x="90" y="60" width="90" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="mvhJ4qTvJMWILq0OqMUm-8" value="社区维度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="6tIgo2vq2b_T4DXhbU-m-1" vertex="1">
+          
           <mxGeometry x="640" y="60" width="90" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="mvhJ4qTvJMWILq0OqMUm-9" value="缴费项" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" parent="6tIgo2vq2b_T4DXhbU-m-1" vertex="1">
+          
           <mxGeometry x="110" y="585" width="80" height="80" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="mvhJ4qTvJMWILq0OqMUm-10" value="费项时间：计费的开始时间和结束时间，对应一条应收记录&lt;br style=&quot;font-size: 14px&quot;&gt;比如2020年物业费，2020年1月1日 至 2020年12月31日&lt;br&gt;分阶： 可以生产多条应收记录&lt;br&gt;比如按季度收费，目前只支持定额的分阶&lt;br&gt;&lt;br&gt;单价 没有时间概念吗？&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;物业费每月多钱？&lt;br&gt;&lt;br&gt;&lt;br&gt;费用是什么时候计算的？什么时候入账的？有没有入账的概念？" style="text;html=1;fontSize=14;" parent="6tIgo2vq2b_T4DXhbU-m-1" vertex="1">
+          
           <mxGeometry x="80" y="740" width="480" height="220" as="geometry" />
+          
+        </mxCell>
+        
+      </root>
+      
+    </mxGraphModel>
+    
+  </diagram>
+  <diagram id="eKH-fIOuQWaw9YDrDglG" name="Nacos方案">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-0" />
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-1" parent="eaLfM0lrv_M3lRd8LvW7-0" />
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
+          <mxGeometry x="120" y="110" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
+          <mxGeometry x="510" y="110" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-4" value="开发/测试环境Nacos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
+          <mxGeometry x="170" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-5" value="生产环境Nacos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
+          <mxGeometry x="560" y="80" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
