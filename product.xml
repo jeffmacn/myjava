@@ -1,4 +1,4 @@
-<mxfile modified="2020-03-15T04:40:53.639Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="CpK9fDkoQmh3YAtnP9om" version="12.8.5" type="github" pages="21">
+<mxfile modified="2020-03-15T04:51:52.696Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="UC9Q90IDa8aeL7sClUkG" version="12.8.5" type="github" pages="21">
   <diagram id="I11_ivOyKLUAQFTDymwa" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5630,16 +5630,49 @@
         <mxCell id="eaLfM0lrv_M3lRd8LvW7-0" />
         <mxCell id="eaLfM0lrv_M3lRd8LvW7-1" parent="eaLfM0lrv_M3lRd8LvW7-0" />
         <mxCell id="eaLfM0lrv_M3lRd8LvW7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
-          <mxGeometry x="120" y="110" width="220" height="130" as="geometry" />
+          <mxGeometry x="120" y="110" width="310" height="250" as="geometry" />
         </mxCell>
         <mxCell id="eaLfM0lrv_M3lRd8LvW7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
-          <mxGeometry x="510" y="110" width="220" height="130" as="geometry" />
+          <mxGeometry x="510" y="110" width="220" height="250" as="geometry" />
         </mxCell>
         <mxCell id="eaLfM0lrv_M3lRd8LvW7-4" value="开发/测试环境Nacos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
           <mxGeometry x="170" y="80" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eaLfM0lrv_M3lRd8LvW7-5" value="生产环境Nacos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
           <mxGeometry x="560" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
+          <mxGeometry x="130" y="130" width="140" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-9" value="namespace：DEV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
+          <mxGeometry x="140" y="140" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
+          <mxGeometry x="280" y="130" width="140" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-11" value="namespace：TEST" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
+          <mxGeometry x="295" y="140" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-12" value="heng-gateway.yaml" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
+          <mxGeometry x="144" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-13" value="heng-user.yaml" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
+          <mxGeometry x="132" y="210" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-14" value="heng-gateway.yaml" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
+          <mxGeometry x="295" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-15" value="heng-user.yaml" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
+          <mxGeometry x="283" y="210" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
+          <mxGeometry x="520" y="130" width="140" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-17" value="heng-gateway.yaml" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
+          <mxGeometry x="532" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eaLfM0lrv_M3lRd8LvW7-18" value="heng-user.yaml" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eaLfM0lrv_M3lRd8LvW7-1">
+          <mxGeometry x="520" y="210" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
