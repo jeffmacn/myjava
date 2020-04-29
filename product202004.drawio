@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-29T04:14:46.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="-IdzjXF8a952kndOw4Vr" version="13.0.2" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-04-29T04:16:47.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="lfI_nefzeoYJqowsBEmB" version="13.0.2" type="github" pages="4">
   <diagram id="D6xUE61VpCGZH91AxABK" name="Page-1">
     <mxGraphModel dx="1209" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -632,6 +632,36 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1150" y="1630" as="sourcePoint" />
             <mxPoint x="1200" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATy6VfLFeM_JvpIriEl_-16" value="导出学生信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IMbasNeEGBC8rWRaA1V-1">
+          <mxGeometry x="1680" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATy6VfLFeM_JvpIriEl_-17" value="收集各学校信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IMbasNeEGBC8rWRaA1V-1">
+          <mxGeometry x="1470" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATy6VfLFeM_JvpIriEl_-18" value="收集各区县信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0IMbasNeEGBC8rWRaA1V-1">
+          <mxGeometry x="1250" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATy6VfLFeM_JvpIriEl_-20" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0IMbasNeEGBC8rWRaA1V-1" source="ATy6VfLFeM_JvpIriEl_-16" target="ATy6VfLFeM_JvpIriEl_-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1420" y="440" as="sourcePoint" />
+            <mxPoint x="1470" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATy6VfLFeM_JvpIriEl_-21" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0IMbasNeEGBC8rWRaA1V-1" source="ATy6VfLFeM_JvpIriEl_-17" target="ATy6VfLFeM_JvpIriEl_-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="370" as="sourcePoint" />
+            <mxPoint x="1330" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATy6VfLFeM_JvpIriEl_-22" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0IMbasNeEGBC8rWRaA1V-1" source="ATy6VfLFeM_JvpIriEl_-18" target="0IMbasNeEGBC8rWRaA1V-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="340" as="sourcePoint" />
+            <mxPoint x="1170" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="290" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
