@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-22T04:49:04.469Z" host="www.draw.io" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="WsNG0GZLIrt-Ir8szj2Y" version="13.0.2" type="github" pages="24">
+<mxfile modified="2020-05-22T04:55:07.010Z" host="www.draw.io" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Ga8KKAG_VMkCYOyhyT_O" version="13.0.2" type="github" pages="24">
   <diagram id="I11_ivOyKLUAQFTDymwa" name="Page-1">
     <mxGraphModel dx="1209" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6041,6 +6041,9 @@
         </mxCell>
         <mxCell id="-9Vi9AYI0QtQsyth4Dk6-35" value="83端口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-9Vi9AYI0QtQsyth4Dk6-1">
           <mxGeometry x="420" y="442.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rcwjgh-nQQXHVoXdkSIS-0" value="Service Discovery &amp;amp;&lt;br&gt;&amp;nbsp;Configration Server（NACOS）" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.worker_role;" vertex="1" parent="-9Vi9AYI0QtQsyth4Dk6-1">
+          <mxGeometry x="610" y="560" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
