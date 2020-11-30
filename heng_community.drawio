@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T08:25:28.937Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="dlJP3ynOBmWiR9HrLyO7" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T09:39:17.546Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="gg9irZat3YR39j5RHo0_" version="13.10.4" type="github">
   <diagram id="lf53xK3CYcItw04vwrKp" name="车场">
     <mxGraphModel dx="1102" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,9 @@
             <mxPoint x="380" y="310" as="sourcePoint" />
             <mxPoint x="520" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="m-Kj6B7PE4nzNGE_S6hV-18" value="1. 车位组管理&lt;span style=&quot;background-color: rgb(82 , 80 , 58) ; color: rgb(255 , 160 , 160) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9pt&quot;&gt;manage.cargroups&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="320" width="220" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
