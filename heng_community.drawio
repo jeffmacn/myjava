@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T09:12:53.091Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="WJtq97fRi08DqfVEO0y_" version="13.10.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-01T09:48:50.309Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="IDZMG7H_qo6XyNvMmSsj" version="13.10.4" type="github" pages="2">
   <diagram id="lf53xK3CYcItw04vwrKp" name="车场">
     <mxGraphModel dx="1102" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
         <mxCell id="uxEuuEFXV63P-5hz8gUW-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 车位组（CarGroup）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="uxEuuEFXV63P-5hz8gUW-1">
           <mxGeometry x="300" y="520" width="300" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="uxEuuEFXV63P-5hz8gUW-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;A区" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="uxEuuEFXV63P-5hz8gUW-1">
+        <mxCell id="uxEuuEFXV63P-5hz8gUW-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;A区&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;（Zone A）" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="uxEuuEFXV63P-5hz8gUW-1">
           <mxGeometry x="40" y="90" width="210" height="350" as="geometry" />
         </mxCell>
         <mxCell id="uxEuuEFXV63P-5hz8gUW-2" value="车位1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uxEuuEFXV63P-5hz8gUW-1">
@@ -105,7 +105,7 @@
         <mxCell id="uxEuuEFXV63P-5hz8gUW-6" value="智慧社区车场" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uxEuuEFXV63P-5hz8gUW-1">
           <mxGeometry x="200" y="60" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uxEuuEFXV63P-5hz8gUW-8" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;B区" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="uxEuuEFXV63P-5hz8gUW-1">
+        <mxCell id="uxEuuEFXV63P-5hz8gUW-8" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;B区&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;（Zone B）" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="uxEuuEFXV63P-5hz8gUW-1">
           <mxGeometry x="290" y="90" width="210" height="350" as="geometry" />
         </mxCell>
         <mxCell id="uxEuuEFXV63P-5hz8gUW-9" value="车位1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uxEuuEFXV63P-5hz8gUW-1">
