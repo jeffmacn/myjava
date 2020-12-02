@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T09:48:50.309Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="IDZMG7H_qo6XyNvMmSsj" version="13.10.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-02T06:07:18.015Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="WUaMI4WUdspc5ucYZ6fX" version="13.10.4" type="github" pages="2">
   <diagram id="lf53xK3CYcItw04vwrKp" name="车场">
     <mxGraphModel dx="1102" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,11 +80,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yy-SFTuNOoilCG56Jn97" name="Page-2">
-    <mxGraphModel dx="1102" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="uxEuuEFXV63P-5hz8gUW-0" />
         <mxCell id="uxEuuEFXV63P-5hz8gUW-1" parent="uxEuuEFXV63P-5hz8gUW-0" />
-        <mxCell id="uxEuuEFXV63P-5hz8gUW-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 车位组（CarGroup）" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="uxEuuEFXV63P-5hz8gUW-1">
+        <mxCell id="uxEuuEFXV63P-5hz8gUW-15" value="车位组（CarGroup）&lt;br&gt;没有车位实体概念，车位组有车位数" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="uxEuuEFXV63P-5hz8gUW-1">
           <mxGeometry x="300" y="520" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="uxEuuEFXV63P-5hz8gUW-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;A区&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;（Zone A）" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="uxEuuEFXV63P-5hz8gUW-1">
@@ -122,12 +122,6 @@
         </mxCell>
         <mxCell id="uxEuuEFXV63P-5hz8gUW-13" value="车位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uxEuuEFXV63P-5hz8gUW-1">
           <mxGeometry x="50" y="590" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uxEuuEFXV63P-5hz8gUW-14" value="车位（Car）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="uxEuuEFXV63P-5hz8gUW-1">
-          <mxGeometry x="354" y="540" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="uxEuuEFXV63P-5hz8gUW-16" value="车位（Car）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="uxEuuEFXV63P-5hz8gUW-1">
-          <mxGeometry x="354" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uxEuuEFXV63P-5hz8gUW-17" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uxEuuEFXV63P-5hz8gUW-1" source="uxEuuEFXV63P-5hz8gUW-13" target="uxEuuEFXV63P-5hz8gUW-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
