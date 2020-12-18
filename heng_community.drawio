@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T02:46:23.448Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="TxvvjYAK_-GsSS_Yx5Cz" version="13.10.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-12-18T02:49:12.438Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="MDBMG_IrEGdvN8r77hzu" version="13.10.9" type="github" pages="5">
   <diagram id="lf53xK3CYcItw04vwrKp" name="车场">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -667,6 +667,28 @@
         </mxCell>
         <mxCell id="361DX3LaOXPfuuEqCM7L-7" value="corp_user" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="361DX3LaOXPfuuEqCM7L-1">
           <mxGeometry x="660" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="361DX3LaOXPfuuEqCM7L-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="361DX3LaOXPfuuEqCM7L-1" source="361DX3LaOXPfuuEqCM7L-5" target="361DX3LaOXPfuuEqCM7L-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="530" as="sourcePoint" />
+            <mxPoint x="510" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="361DX3LaOXPfuuEqCM7L-9" value="usercenter_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="361DX3LaOXPfuuEqCM7L-8">
+          <mxGeometry x="-0.1926" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="361DX3LaOXPfuuEqCM7L-10" value="" style="endArrow=classic;html=1;" edge="1" parent="361DX3LaOXPfuuEqCM7L-1" source="361DX3LaOXPfuuEqCM7L-6" target="361DX3LaOXPfuuEqCM7L-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="540" as="sourcePoint" />
+            <mxPoint x="650" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="361DX3LaOXPfuuEqCM7L-11" value="usercenter_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="361DX3LaOXPfuuEqCM7L-10">
+          <mxGeometry x="-0.1111" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
