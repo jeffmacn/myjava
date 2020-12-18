@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T06:21:49.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BgwhSpmACXo8l4KIn13m" version="14.0.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-12-18T02:46:23.448Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="TxvvjYAK_-GsSS_Yx5Cz" version="13.10.9" type="github" pages="5">
   <diagram id="lf53xK3CYcItw04vwrKp" name="车场">
-    <mxGraphModel dx="1102" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -644,6 +644,29 @@
             <mxPoint x="1880" y="530" as="sourcePoint" />
             <mxPoint x="1930" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sUZHTrdXPCtewiEBp-iM" name="用户">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="361DX3LaOXPfuuEqCM7L-0" />
+        <mxCell id="361DX3LaOXPfuuEqCM7L-1" parent="361DX3LaOXPfuuEqCM7L-0" />
+        <mxCell id="361DX3LaOXPfuuEqCM7L-3" value="Oracle" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="361DX3LaOXPfuuEqCM7L-1">
+          <mxGeometry x="180" y="150" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="361DX3LaOXPfuuEqCM7L-4" value="MySQL" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="361DX3LaOXPfuuEqCM7L-1">
+          <mxGeometry x="575" y="160" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="361DX3LaOXPfuuEqCM7L-5" value="web管理用户&lt;br&gt;sc_user" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="361DX3LaOXPfuuEqCM7L-1">
+          <mxGeometry x="270" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="361DX3LaOXPfuuEqCM7L-6" value="APP用户&lt;br&gt;user_auths" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="361DX3LaOXPfuuEqCM7L-1">
+          <mxGeometry x="270" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="361DX3LaOXPfuuEqCM7L-7" value="corp_user" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="361DX3LaOXPfuuEqCM7L-1">
+          <mxGeometry x="660" y="340" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
