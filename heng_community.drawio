@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T02:52:21.800Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="YjoGgwAeoFLuCcRlw1ZV" version="13.10.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-12-18T02:58:09.547Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="RIxskPJ5K6upzKLO3apm" version="13.10.9" type="github" pages="5">
   <diagram id="lf53xK3CYcItw04vwrKp" name="车场">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -690,8 +690,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="361DX3LaOXPfuuEqCM7L-13" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10.5000pt&quot;&gt;user_type&lt;font face=&quot;宋体&quot;&gt;，表示用户的类型&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10.5000pt&quot;&gt;&lt;font face=&quot;Calibri&quot;&gt;0-&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;代表所有的使用者用户&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10.5000pt&quot;&gt;&lt;font face=&quot;Calibri&quot;&gt;1-&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;渠道用户（指的是社区平台、吉鲜峰、商城合伙方账号）&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10.5000pt&quot;&gt;&lt;font face=&quot;Calibri&quot;&gt;2-&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;管理后台&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="361DX3LaOXPfuuEqCM7L-1">
-          <mxGeometry x="910" y="310" width="550" height="70" as="geometry" />
+        <mxCell id="361DX3LaOXPfuuEqCM7L-14" value="&lt;div style=&quot;text-align: left; line-height: 1.75; font-size: 14px;&quot;&gt;user_type：用户类型(0-普通用户1-渠道2-后台)&lt;/div&gt;&lt;div style=&quot;text-align: left; line-height: 1.75; font-size: 14px;&quot;&gt;channel_type：渠道来源(0-系统1-幸福家社区2-泰华汇3-吉鲜峰4-选房app)&lt;/div&gt;&lt;div style=&quot;text-align: left; line-height: 1.75; font-size: 14px;&quot;&gt;src_type：用户来源(0-渠道或后台1-普通2-购房3-在职泰华员工4-无购房离职泰华员工5-购房离职泰华员工)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="361DX3LaOXPfuuEqCM7L-1">
+          <mxGeometry x="900" y="250" width="400" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
