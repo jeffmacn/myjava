@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T02:58:09.547Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="RIxskPJ5K6upzKLO3apm" version="13.10.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-12-28T03:45:36.573Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="VFRYwtNz8DU1yKcyArXZ" version="14.0.5" type="github" pages="6">
   <diagram id="lf53xK3CYcItw04vwrKp" name="车场">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -692,6 +692,35 @@
         </mxCell>
         <mxCell id="361DX3LaOXPfuuEqCM7L-14" value="&lt;div style=&quot;text-align: left; line-height: 1.75; font-size: 14px;&quot;&gt;user_type：用户类型(0-普通用户1-渠道2-后台)&lt;/div&gt;&lt;div style=&quot;text-align: left; line-height: 1.75; font-size: 14px;&quot;&gt;channel_type：渠道来源(0-系统1-幸福家社区2-泰华汇3-吉鲜峰4-选房app)&lt;/div&gt;&lt;div style=&quot;text-align: left; line-height: 1.75; font-size: 14px;&quot;&gt;src_type：用户来源(0-渠道或后台1-普通2-购房3-在职泰华员工4-无购房离职泰华员工5-购房离职泰华员工)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="361DX3LaOXPfuuEqCM7L-1">
           <mxGeometry x="900" y="250" width="400" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="12w_SBqoY1EB7uK-7hKl" name="全视通">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="jlVOO8eNKp3ZHdFJFFMa-0" />
+        <mxCell id="jlVOO8eNKp3ZHdFJFFMa-1" parent="jlVOO8eNKp3ZHdFJFFMa-0" />
+        <mxCell id="jlVOO8eNKp3ZHdFJFFMa-2" value="期" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+          <mxGeometry x="210" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jlVOO8eNKp3ZHdFJFFMa-3" value="区" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+          <mxGeometry x="290" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jlVOO8eNKp3ZHdFJFFMa-4" value="栋" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+          <mxGeometry x="370" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jlVOO8eNKp3ZHdFJFFMa-5" value="单元" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+          <mxGeometry x="450" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jlVOO8eNKp3ZHdFJFFMa-6" value="层" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+          <mxGeometry x="530" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jlVOO8eNKp3ZHdFJFFMa-7" value="房" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+          <mxGeometry x="610" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jlVOO8eNKp3ZHdFJFFMa-8" value="小区" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+          <mxGeometry x="130" y="110" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
