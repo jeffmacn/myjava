@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T04:08:45.237Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="xUUrzMKwV9IVayqNO-kB" version="14.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-29T05:40:52.065Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="dE8sYslowoXFSK9j8Ds8" version="14.1.2" type="github" pages="6">
   <diagram id="lf53xK3CYcItw04vwrKp" name="车场">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -854,13 +854,13 @@
         <mxCell id="EEM8Sy0xmiJjDBDpds1G-6" value="单元机2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
           <mxGeometry x="529" y="860" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EEM8Sy0xmiJjDBDpds1G-7" value="U1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+        <mxCell id="EEM8Sy0xmiJjDBDpds1G-7" value="U1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FF0000;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
           <mxGeometry x="225" y="760" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EEM8Sy0xmiJjDBDpds1G-8" value="U2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
           <mxGeometry x="330" y="760" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EEM8Sy0xmiJjDBDpds1G-10" value="U1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+        <mxCell id="EEM8Sy0xmiJjDBDpds1G-10" value="U1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FF0000;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
           <mxGeometry x="510" y="760" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EEM8Sy0xmiJjDBDpds1G-11" value="U3" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
