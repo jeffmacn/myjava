@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T07:16:32.839Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="kgH5GiAse5oX2I8PqW8U" version="14.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-29T07:27:30.887Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="6FS9VRSMt8OB-MSFM4Mw" version="14.1.2" type="github" pages="6">
   <diagram id="lf53xK3CYcItw04vwrKp" name="车场">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -872,7 +872,7 @@
         <mxCell id="EEM8Sy0xmiJjDBDpds1G-14" value="1. 根据前端传的门卡有效期修改房屋R1和R2的物业服务有效期&lt;br&gt;2. 新增门卡（实体卡）&lt;br&gt;3. 查找房屋R1关联的单元机设备，&amp;nbsp;设置新增门卡在单元机上的有效期&lt;br&gt;&amp;nbsp; &amp;nbsp; 查找房屋R2关联的单元机设备，&amp;nbsp;设置新增门卡在单元机上的有效期&lt;br&gt;4. 设置房屋R1、R2的虚拟卡的有效期（表）&lt;br&gt;5. 设置新增门卡在小区围墙机上的有效期&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
           <mxGeometry x="139" y="1253" width="591" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EEM8Sy0xmiJjDBDpds1G-15" value="1.&amp;nbsp;&lt;br&gt;2.&amp;nbsp;&lt;br&gt;3. 查找房屋R1关联的单元机设备，&amp;nbsp;设置新增门卡在单元机上的有效期&lt;br&gt;&amp;nbsp; &amp;nbsp; 查找房屋R2关联的单元机设备，&amp;nbsp;设置新增门卡在单元机上的有效期&lt;br&gt;4. 设置房屋R1、R2的虚拟卡的有效期（表）&lt;br&gt;5. 设置新增门卡在小区围墙机上的有效期" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+        <mxCell id="EEM8Sy0xmiJjDBDpds1G-15" value="同一个单元下卡关联着两个房间，对应一个单元机设备，才会有有效期冲突的问题。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
           <mxGeometry x="140" y="1383" width="591" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EEM8Sy0xmiJjDBDpds1G-16" value="新增卡" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
