@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T07:10:52.109Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="vYBeKpf5J8KMUCvhVa_y" version="14.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-29T07:11:10.197Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Bq0Q8eIvO-xiBkixdjV5" version="14.1.2" type="github" pages="6">
   <diagram id="lf53xK3CYcItw04vwrKp" name="车场">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -842,10 +842,10 @@
         <mxCell id="jlVOO8eNKp3ZHdFJFFMa-65" value="区" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="jlVOO8eNKp3ZHdFJFFMa-1" vertex="1">
           <mxGeometry x="291" y="440" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EEM8Sy0xmiJjDBDpds1G-0" value="房间101" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+        <mxCell id="EEM8Sy0xmiJjDBDpds1G-0" value="房间101" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
           <mxGeometry x="200" y="940" width="200" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="EEM8Sy0xmiJjDBDpds1G-1" value="房间302" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+        <mxCell id="EEM8Sy0xmiJjDBDpds1G-1" value="房间302" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
           <mxGeometry x="480" y="790" width="200" height="83" as="geometry" />
         </mxCell>
         <mxCell id="EEM8Sy0xmiJjDBDpds1G-3" value="围墙机1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
