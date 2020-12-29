@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T05:44:19.414Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="xt1k4EHXCNfalEjKf2SI" version="14.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-29T05:45:33.809Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="pLLXIAx28i-s-4OUFiCI" version="14.1.2" type="github" pages="6">
   <diagram id="lf53xK3CYcItw04vwrKp" name="车场">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -867,9 +867,9 @@
           <mxGeometry x="619" y="760" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EEM8Sy0xmiJjDBDpds1G-12" value="门卡" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
-          <mxGeometry x="20" y="760" width="80" height="40" as="geometry" />
+          <mxGeometry x="340" y="910" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EEM8Sy0xmiJjDBDpds1G-13" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jlVOO8eNKp3ZHdFJFFMa-1" source="EEM8Sy0xmiJjDBDpds1G-12" target="EEM8Sy0xmiJjDBDpds1G-7">
+        <mxCell id="EEM8Sy0xmiJjDBDpds1G-13" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jlVOO8eNKp3ZHdFJFFMa-1" source="EEM8Sy0xmiJjDBDpds1G-12" target="EEM8Sy0xmiJjDBDpds1G-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="880" as="sourcePoint" />
             <mxPoint x="150" y="830" as="targetPoint" />
@@ -895,6 +895,12 @@
         </mxCell>
         <mxCell id="EEM8Sy0xmiJjDBDpds1G-21" value="门卡" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
           <mxGeometry x="569" y="770" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EEM8Sy0xmiJjDBDpds1G-22" value="" style="endArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jlVOO8eNKp3ZHdFJFFMa-1" source="EEM8Sy0xmiJjDBDpds1G-12" target="EEM8Sy0xmiJjDBDpds1G-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="920" as="sourcePoint" />
+            <mxPoint x="520" y="960" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
