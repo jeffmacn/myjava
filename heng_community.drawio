@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T02:51:56.874Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="AokWwcloQiW37ugIBs2m" version="14.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-29T02:56:08.887Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="a2cMKWcXv4uReyzvyLJD" version="14.1.2" type="github" pages="6">
   <diagram id="lf53xK3CYcItw04vwrKp" name="车场">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -874,6 +874,9 @@
             <mxPoint x="100" y="880" as="sourcePoint" />
             <mxPoint x="150" y="830" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EEM8Sy0xmiJjDBDpds1G-14" value="1. 根据前端传的门卡有效期修改房屋R1和R2的物业服务有效期&lt;br&gt;2. 新增门卡（实体卡）&lt;br&gt;3. 查找房屋R1和R2的所有门卡，设置门卡在单元机上的有效期，设置门卡在围墙机上的有效期" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+          <mxGeometry x="139" y="1090" width="591" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
