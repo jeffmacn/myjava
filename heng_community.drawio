@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T04:08:01.690Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="3zQefZz5SCUvLMFXtFQa" version="14.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-29T04:08:45.237Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="xUUrzMKwV9IVayqNO-kB" version="14.1.2" type="github" pages="6">
   <diagram id="lf53xK3CYcItw04vwrKp" name="车场">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -886,6 +886,15 @@
         </mxCell>
         <mxCell id="EEM8Sy0xmiJjDBDpds1G-18" value="已有卡" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
           <mxGeometry x="50" y="1260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EEM8Sy0xmiJjDBDpds1G-19" value="门卡" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+          <mxGeometry x="365" y="770" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EEM8Sy0xmiJjDBDpds1G-20" value="门卡" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+          <mxGeometry x="450" y="770" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EEM8Sy0xmiJjDBDpds1G-21" value="门卡" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="jlVOO8eNKp3ZHdFJFFMa-1">
+          <mxGeometry x="569" y="770" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
